@@ -1,4 +1,4 @@
-# Arithmetic Lab
+lea# Arithmetic Lab
 
 ## Overview
 
